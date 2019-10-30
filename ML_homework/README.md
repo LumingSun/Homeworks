@@ -1,0 +1,1 @@
+机器学习作业，使用svm、xgboost和random forests方法对胸腔肺部CT影像进行机器学习。
